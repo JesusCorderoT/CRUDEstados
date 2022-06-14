@@ -1,0 +1,8 @@
+D:\TICH\SEMANA 2\02-06-2022\CRUDEstados\CRUDEstados\bin\Debug\CRUDEstados.exe.config
+D:\TICH\SEMANA 2\02-06-2022\CRUDEstados\CRUDEstados\bin\Debug\CRUDEstados.exe
+D:\TICH\SEMANA 2\02-06-2022\CRUDEstados\CRUDEstados\bin\Debug\CRUDEstados.pdb
+D:\TICH\SEMANA 2\02-06-2022\CRUDEstados\CRUDEstados\obj\Debug\CRUDEstados.csproj.AssemblyReference.cache
+D:\TICH\SEMANA 2\02-06-2022\CRUDEstados\CRUDEstados\obj\Debug\CRUDEstados.csproj.SuggestedBindingRedirects.cache
+D:\TICH\SEMANA 2\02-06-2022\CRUDEstados\CRUDEstados\obj\Debug\CRUDEstados.csproj.CoreCompileInputs.cache
+D:\TICH\SEMANA 2\02-06-2022\CRUDEstados\CRUDEstados\obj\Debug\CRUDEstados.exe
+D:\TICH\SEMANA 2\02-06-2022\CRUDEstados\CRUDEstados\obj\Debug\CRUDEstados.pdb
